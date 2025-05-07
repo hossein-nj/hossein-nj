@@ -28,3 +28,13 @@
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hossein-najafi-7329962a1)&nbsp;
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hosein2033@gmail.com)
 
+ <br/>
+
+<h2>📊 My Github Status:</h2>
+
+<div>
+ <img src="https://github-readme-stats.vercel.app/api?username=hossein-nj&show_icons=true&theme=synthwave" width="500"/>&nbsp;&nbsp;&nbsp;
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossein-nj&layout=compact&theme=synthwave" width="450"/>
+</div>
+
+
