@@ -13,14 +13,14 @@
 </p>
 <br/>
 
-<h2>🔧 Tools I Use:</h2>
+<h2>🔧 Tools I Use</h2>
 
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,npm,git,github,figma,postman" width="300" />
 </p>
 <br/>
 
-<h2>📊 My Github Status:</h2>
+<h2>📊 My Github Status</h2>
 
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=hossein-nj&show_icons=true&theme=dark" width="400"/>&nbsp;&nbsp;&nbsp;
@@ -28,7 +28,7 @@
 </div>
 <br/>
 
-<h2>🔍 What I Am Currently Up To:</h2>
+<h2>🔍 What I Am Currently Up To</h2>
 
 - 🎯 Learning **TypeScript** to level up my front-end skills  
 - 📚 Exploring new updates and features in modern technologies  
@@ -36,7 +36,7 @@
 
   <br/>
 
-<h2>📱 Contact Me Through:</h2>
+<h2>📱 Contact Me Through</h2>
 
  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/hossein_nj81)&nbsp;
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/hossein__nj81)&nbsp;
