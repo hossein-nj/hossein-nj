@@ -36,5 +36,10 @@
  <img src="https://github-readme-stats.vercel.app/api?username=hossein-nj&show_icons=true&theme=dark" width="500"/>&nbsp;&nbsp;&nbsp;
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossein-nj&layout=compact&theme=dark" width="450"/>
 </div>
+<br/>
 
+<h2>🔍 What I Am Currently Up To:</h2>
 
+- 🎯 Learning **TypeScript** to level up my front-end skills  
+- 📚 Exploring new updates and features in modern technologies  
+- 🚀 Coding and practicing every single day to stay up-to-date with tech
