@@ -20,7 +20,7 @@
 </p>
 <br/>
 
-<h2>📊 My Github Status</h2>
+<h2>📊 My Status</h2>
 
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=hossein-nj&show_icons=true&theme=dark" width="400"/>&nbsp;&nbsp;&nbsp;
