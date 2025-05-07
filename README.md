@@ -33,8 +33,8 @@
 <h2>📊 My Github Status:</h2>
 
 <div>
- <img src="https://github-readme-stats.vercel.app/api?username=hossein-nj&show_icons=true&theme=dark" width="450"/>&nbsp;&nbsp;&nbsp;
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossein-nj&layout=compact&theme=dark" width="400"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=hossein-nj&show_icons=true&theme=dark" width="400"/>&nbsp;&nbsp;&nbsp;
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossein-nj&layout=compact&theme=dark" width="350"/>
 </div>
 <br/>
 
