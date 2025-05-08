@@ -29,6 +29,15 @@
 </div>
 <br/>
 
+<h2>⌛ My WakaTime Stats</h2>
+
+<p align="center">
+ <a href="https://wakatime.com/@hossein_nj81">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hossein_nj81&theme=github_dark" />
+ </a>
+</p>
+
+<br/>
 <h2>🔍 What I Am Currently Up To</h2>
 
 - 🎯 Learning **TypeScript** to level up my front-end skills  
