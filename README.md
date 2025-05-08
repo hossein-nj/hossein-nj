@@ -33,7 +33,7 @@
 
 <p align="center">
  <a href="https://wakatime.com/@hossein_nj81">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hossein_nj81&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hossein_nj81&theme=github_dark&layout=compact" />
  </a>
 </p>
 
