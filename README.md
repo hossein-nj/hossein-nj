@@ -9,7 +9,7 @@
  <h2>📚 Languages I Know</h2>
 
 <p>  
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,redux" width="350" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,redux" width="350" />
 </p>
 <br/>
 
