@@ -40,7 +40,7 @@
 <br/>
 <h2>🔍 What I Am Currently Up To</h2>
 
-- 🎯 Learning **Next JS** to level up my front-end skills  
+- 🎯 Learning **Socket IO** to level up my front-end skills  
 - 📚 Exploring new updates and features in modern technologies  
 - 🚀 Coding and practicing every single day to stay up-to-date with tech
 
