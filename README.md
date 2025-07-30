@@ -7,9 +7,8 @@
 <br/>
 
  <h2>🛠️ Technologies I Work With</h2>
-
 <p>  
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,redux,typescript,nextjs" width="350" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,redux,typescript,nextjs" width="400" />
 </p>
 <br/>
 
@@ -66,7 +65,7 @@
   <a href="https://github.com/bmoers/react-datepicker2">
     <img src="https://img.shields.io/badge/Shamsi%20Datepicker-A855F7?style=for-the-badge&logo=calendar&logoColor=white" alt="React Shamsi Datepicker" />
   </a>
-
+<br/>
 <br/>
 
 <h2>📊 My Stats</h2>
