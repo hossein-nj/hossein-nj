@@ -14,7 +14,6 @@
 
 <h2>🧰 Packages I Use</h2>
 
-<p align="center">
   <a href="https://tanstack.com/query/latest">
     <img src="https://img.shields.io/badge/React%20Query-EF4444?style=for-the-badge&logo=reactquery&logoColor=white" alt="React Query" />
   </a>
@@ -66,7 +65,6 @@
   <a href="https://github.com/bmoers/react-datepicker2">
     <img src="https://img.shields.io/badge/Shamsi%20Datepicker-A855F7?style=for-the-badge&logo=calendar&logoColor=white" alt="React Shamsi Datepicker" />
   </a>
-  </p>
 <br/>
 <br/>
 
