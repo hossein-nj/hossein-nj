@@ -14,56 +14,58 @@
 
 <h2>🧰 Packages I Use</h2>
 
-  <a href="https://tanstack.com/query/latest">
-    <img src="https://img.shields.io/badge/React%20Query-EF4444?style=for-the-badge&logo=reactquery&logoColor=white" alt="React Query" />
+<h2>🧰 Packages I Use</h2>
+
+  <a href="https://gsap.com/">
+    <img src="https://img.shields.io/badge/GSAP-4338CA?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
+  </a>
+
+  <a href="https://joi.dev/">
+    <img src="https://img.shields.io/badge/Joi-dc143c?style=for-the-badge&logo=javascript&logoColor=white" alt="Joi" />
   </a>
 
   <a href="https://recharts.org/">
-    <img src="https://img.shields.io/badge/Recharts-8B5CF6?style=for-the-badge&logo=apachespark&logoColor=white" alt="Recharts" />
-  </a>
-
-  <a href="https://react-hook-form.com/">
-    <img src="https://img.shields.io/badge/React%20Hook%20Form-EC4899?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form" />
+    <img src="https://img.shields.io/badge/Recharts-3B82F6?style=for-the-badge&logo=apachespark&logoColor=white" alt="Recharts" />
   </a>
 
   <a href="https://fkhadra.github.io/react-toastify/">
-    <img src="https://img.shields.io/badge/React%20Toastify-FACC15?style=for-the-badge&logo=react&logoColor=white" alt="React Toastify" />
+    <img src="https://img.shields.io/badge/React%20Toastify-2DD4BF?style=for-the-badge&logo=react&logoColor=black" alt="React Toastify" />
   </a>
 
   <a href="https://react-bits.dev/">
-    <img src="https://img.shields.io/badge/React%20Bits-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="React Bits" />
+    <img src="https://img.shields.io/badge/React%20Bits-FACC15?style=for-the-badge&logo=vercel&logoColor=white" alt="React Bits" />
   </a>
 
   <a href="https://axios-http.com/">
-    <img src="https://img.shields.io/badge/Axios-3B82F6?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
+    <img src="https://img.shields.io/badge/Axios-F87171?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
   </a>
 
   <a href="https://swiperjs.com/react">
-    <img src="https://img.shields.io/badge/Swiper-F97316?style=for-the-badge&logo=swiper&logoColor=white" alt="Swiper" />
+    <img src="https://img.shields.io/badge/Swiper-EC4899?style=for-the-badge&logo=swiper&logoColor=white" alt="Swiper" />
   </a>
 
   <a href="https://react-icons.github.io/react-icons/">
-    <img src="https://img.shields.io/badge/React%20Icons-6366F1?style=for-the-badge&logo=iconify&logoColor=white" alt="React Icons" />
+    <img src="https://img.shields.io/badge/React%20Icons-A855F7?style=for-the-badge&logo=iconify&logoColor=white" alt="React Icons" />
   </a>
 
   <a href="https://www.davidhu.io/react-spinners/">
-    <img src="https://img.shields.io/badge/React%20Spinners-14B8A6?style=for-the-badge&logo=spinrilla&logoColor=white" alt="React Spinners" />
+    <img src="https://img.shields.io/badge/React%20Spinners-EA580C?style=for-the-badge&logo=spinrilla&logoColor=white" alt="React Spinners" />
   </a>
 
   <a href="https://react-data-table-component.netlify.app/">
-    <img src="https://img.shields.io/badge/DataTable%20Component-0EA5E9?style=for-the-badge&logo=databricks&logoColor=white" alt="React DataTable Component" />
+    <img src="https://img.shields.io/badge/DataTable%20Component-06B6D4?style=for-the-badge&logo=databricks&logoColor=white" alt="React DataTable Component" />
   </a>
 
   <a href="https://www.npmjs.com/package/cookies-next">
-    <img src="https://img.shields.io/badge/Cookies%20Next-F59E0B?style=for-the-badge&logo=cookiecutter&logoColor=white" alt="Cookies Next" />
+    <img src="https://img.shields.io/badge/Cookies%20Next-8B5CF6?style=for-the-badge&logo=cookiecutter&logoColor=black" alt="Cookies Next" />
   </a>
 
   <a href="https://github.com/jalaali/moment-jalaali">
-    <img src="https://img.shields.io/badge/Jalali%20Moment-84CC16?style=for-the-badge&logo=moment&logoColor=white" alt="Jalali Moment" />
+    <img src="https://img.shields.io/badge/Jalali%20Moment-B45309?style=for-the-badge&logo=moment&logoColor=white" alt="Jalali Moment" />
   </a>
 
   <a href="https://github.com/bmoers/react-datepicker2">
-    <img src="https://img.shields.io/badge/Shamsi%20Datepicker-A855F7?style=for-the-badge&logo=calendar&logoColor=white" alt="React Shamsi Datepicker" />
+    <img src="https://img.shields.io/badge/Shamsi%20Datepicker-4ADE80?style=for-the-badge&logo=calendar&logoColor=white" alt="React Shamsi Datepicker" />
   </a>
 <br/>
 <br/>
