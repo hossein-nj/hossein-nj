@@ -14,8 +14,6 @@
 
 <h2>🧰 Packages I Use</h2>
 
-<h2>🧰 Packages I Use</h2>
-
   <a href="https://gsap.com/">
     <img src="https://img.shields.io/badge/GSAP-4338CA?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
   </a>
