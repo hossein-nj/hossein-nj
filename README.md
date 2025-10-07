@@ -70,11 +70,9 @@
 
 ## 🚀 My Projects
 
-| Project | Frontend | Backend | Frontend Tech | Backend Tech |
-|----------|-----------|----------|----------------|----------------|
-| [Shoply Store](https://github.com/username/shoply-store) | Hossein | Ali | Next.js, TypeScript, Tailwind CSS | Node.js, Express, MongoDB |
-| [Task Manager](https://github.com/username/task-manager) | Hossein | — | React, Redux Toolkit | Firebase |
-| [Portfolio Website](https://github.com/username/portfolio) | Hossein | — | Next.js, GSAP, Framer Motion | — |
+| Project | Frontend Dev | Backend Dev | Frontend Tech | Backend Tech | Year |
+|----------|---------------|--------------|----------------|---------------|------|
+| [StakhrSafar](https://stakhrsafar.ir/) | [Hossein Najafi](https://github.com/hossein-nj) | [Javad Dehghan](https://javaddehghan.com/) | Next.js, TypeScript, Tailwind CSS | Node.js, Express, MongoDB, NestJS | 2025 |
 <br/>
 
 <h2>⌛ My WakaTime Stats</h2>
