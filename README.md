@@ -68,13 +68,13 @@
 <br/>
 <br/>
 
-<h2>📊 My Stats</h2>
+## 🚀 My Projects
 
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=hossein-nj&show_icons=true&theme=dark" width="400"/>&nbsp;&nbsp;&nbsp;
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossein-nj&layout=compact&theme=dark" width="350"/>
- 
-</div>
+| Project | Frontend | Backend | Frontend Tech | Backend Tech |
+|----------|-----------|----------|----------------|----------------|
+| [Shoply Store](https://github.com/username/shoply-store) | Hossein | Ali | Next.js, TypeScript, Tailwind CSS | Node.js, Express, MongoDB |
+| [Task Manager](https://github.com/username/task-manager) | Hossein | — | React, Redux Toolkit | Firebase |
+| [Portfolio Website](https://github.com/username/portfolio) | Hossein | — | Next.js, GSAP, Framer Motion | — |
 <br/>
 
 <h2>⌛ My WakaTime Stats</h2>
@@ -88,7 +88,7 @@
 <br/>
 <h2>🔍 What I Am Currently Up To</h2>
 
-- 🎯 Learning **Socket IO** to level up my front-end skills  
+- 🎯 Learning **leaflet js** to level up my front-end skills  
 - 📚 Exploring new updates and features in modern technologies  
 - 🚀 Coding and practicing every single day to stay up-to-date with tech
 
