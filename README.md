@@ -72,7 +72,8 @@
 
 | Project | Frontend Dev | Backend Dev | Frontend Tech | Backend Tech | Year |
 |----------|---------------|--------------|----------------|---------------|------|
-| [StakhrSafar](https://stakhrsafar.ir/) | [Hossein_Najafi](https://github.com/hossein-nj) | [Javad_Dehghan](https://javaddehghan.com/) | Next.js, TypeScript, TailwindCSS | Node.js, Express, MongoDB, NestJS | 2025 |
+| <a href="https://stakhrsafar.ir/" target="_blank" rel="noopener noreferrer">StakhrSafar</a> | <a href="https://github.com/hossein-nj" target="_blank" rel="noopener noreferrer">Hossein_Najafi</a> | <a href="https://javaddehghan.com/" target="_blank" rel="noopener noreferrer">Javad_Dehghan</a> | Next.js, TypeScript, TailwindCSS | Node.js, Express, MongoDB, NestJS | 2025 |
+
 <br/>
 
 <h2>⌛ My WakaTime Stats</h2>
