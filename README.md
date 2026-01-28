@@ -8,7 +8,7 @@
 
  <h2>🛠️ Technologies I Work With</h2>
 <p>  
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,redux,typescript,nextjs" width="400" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,typescript,nextjs,threejs" width="400" />
 </p>
 <br/>
 
